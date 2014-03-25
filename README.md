@@ -1,2 +1,0 @@
-baralho-da-natureza
-===================
